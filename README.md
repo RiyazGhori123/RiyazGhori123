@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science<br>🌱 I’m currently learning<br>💬 Ask me about <br>⚡ Fun fact
+🔭 I’m addicted to Data Science and I love learning new skills<br>🌱 I’m currently learning<br>
+📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development<br>💬 Ask me about <br>⚡ Fun fact
 
 
 ## 🌐 Socials:

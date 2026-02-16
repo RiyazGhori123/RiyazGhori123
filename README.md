@@ -4,20 +4,13 @@
 -->
 
 <div align="center">
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&section=header&text=Shaik%20Riyaz%20Ghori&fontSize=50&fontAlignY=35&desc=FULLSTACK%20Engineer%20•AI%20Engineer%20•%20Data%20Engineer%20•%20LLMs%20•%20RAG%20Systems&descAlignY=60&fontColor=ffffff" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2f3d7f5e-80d7-4a2c-9f45-3df1f6dd6c7d.gif" width="100%"/>
-
 </div>
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Production+Grade+AI+Systems;RAG+Pipelines+%7C+LLM+Evaluation+%7C+Data+Engineering;FastAPI+%7C+React+%7C+Databricks+%7C+Azure+%2F+AWS;Turning+Ideas+Into+Scalable+AI+Products" />
 </p>
-
 
 <p align="center">
   <a href="https://riyazghoriportfolio.netlify.app/" target="_blank">
@@ -178,28 +171,25 @@ Software Engineer specializing in **AI/ML systems, RAG pipelines, and Data Engin
 
 ## 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RiyazGhori123&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RiyazGhori123&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://streak-stats.demolab.com?user=RiyazGhori123&theme=tokyonight"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RiyazGhori123&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyazGhori123&layout=compact&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyazGhori123&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ---
 
 ## 🏅 Achievement Board
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RiyazGhori123&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</div>
-
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RiyazGhori123&theme=tokyonight&no-frame=true&margin-w=8"/>
+</p>
 
 ## 👁 Profile Views
 
@@ -208,17 +198,6 @@ Software Engineer specializing in **AI/ML systems, RAG pipelines, and Data Engin
 </p>
 
 ---
-
-## 🧭 Engineering Principles
-
-* Build for production, not demos
-* Measure → Evaluate → Improve
-* Simple, scalable architectures
-* AI systems should be reliable & explainable
-
----
-
-<h3 align="center">⚡ Building AI systems that go beyond prototypes.</h3>
 
 
 ## 🧭 Engineering Principles

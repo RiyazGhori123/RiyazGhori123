@@ -81,6 +81,27 @@
 * 🌍 Worked on cross-cloud AI architecture (Azure / AWS / GCP)
 
 ---
+## 💼 Experience
+
+### 🟢 Software Engineer — Genpact (Jul 2024 – Present)
+
+* Working on enterprise AI/ML solutions
+* Built RAG pipelines and data workflows
+* Worked with Databricks, cloud deployment, and automation
+
+### 🟡 Data Engineering Intern — Genpact (Jan 2024 – Jun 2024)
+
+* Built full-stack AI web scraping platform
+* Implemented RAG workflows on Azure
+* Integrated chatbot for intelligent querying
+
+### 🔵 Python Developer — Turing (Remote)
+
+* Built LLM ranking & evaluation pipelines
+* Developed scoring systems for model benchmarking
+* Created backend APIs for evaluation automation
+
+---
 
 ## 🚀 Featured AI Projects
 
@@ -133,46 +154,72 @@
 
 ---
 
+## 🚀 About Me
+
+Software Engineer specializing in **AI/ML systems, RAG pipelines, and Data Engineering**.
+
+* 🤖 Building end-to-end AI applications using LLMs
+* ☁️ Experience with Azure & AWS cloud environments
+* 📊 Strong focus on scalable data workflows and automation
+* ⚡ Passionate about solving real-world problems with production-ready AI
+
+---
+
+## 🧠 Core Expertise
+
+* **LLM Systems:** RAG, LangChain, embeddings, evaluation pipelines
+* **Data Engineering:** Databricks, Delta Lake, PySpark workflows
+* **Backend:** FastAPI, Flask, REST APIs, microservices
+* **Frontend:** React, Angular
+* **Cloud:** Azure (Blob, KeyVault, ADF), AWS
+* **Databases:** PostgreSQL, MongoDB
+
+---
+
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RiyazGhori123&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RiyazGhori123&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RiyazGhori123&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=RiyazGhori123&theme=tokyonight"/>
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyazGhori123&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----    
-
-## 🏅 Achievement Board
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RiyazGhori123&theme=radical&no-frame=true&margin-w=12"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyazGhori123&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Animation (AUTO)
+## 🏅 Achievement Board
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/RiyazGhori123/RiyazGhori123/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RiyazGhori123&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</div>
 
 ---
 
 ## 👁 Profile Views
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=RiyazGhori123&icon=6&color=12"/>
+<img src="https://komarev.com/ghpvc/?username=RiyazGhori123&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
+
+## 🧭 Engineering Principles
+
+* Build for production, not demos
+* Measure → Evaluate → Improve
+* Simple, scalable architectures
+* AI systems should be reliable & explainable
+
+---
+
+<h3 align="center">⚡ Building AI systems that go beyond prototypes.</h3>
+
 
 ## 🧭 Engineering Principles
 

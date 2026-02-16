@@ -7,9 +7,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:00C9FF,100:92FE9D&section=header&text=Shaik%20Riyaz%20Ghori&fontSize=50&fontAlignY=35&desc=AI%20Engineer%20•%20Data%20Engineer%20•%20LLMs%20•%20RAG%20Systems&descAlignY=60&fontColor=ffffff"/>
 
-<p>
+<!-- <p>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Production+Grade+AI+Systems+🚀;RAG+Pipelines+%7C+LLM+Evaluation+%7C+Data+Engineering;FastAPI+%7C+React+%7C+Databricks+%7C+Azure+%2F+AWS;Turning+Ideas+Into+Scalable+AI+Products+⚡"/>
-</p>
+</p> -->
 
 <p>
 <a href="https://linkedin.com/in/Riyaz Ghori Shaik">

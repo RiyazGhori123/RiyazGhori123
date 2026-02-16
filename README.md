@@ -5,7 +5,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f8027,50:01C9FF,100:92FE4D&section=header&text=Shaik%20Riyaz%20Ghori&fontSize=50&fontAlignY=35&desc=FULLSTACK%20Engineer%20•%20AI%20Engineer%20•%20Data%20Engineer%20•%20LLMs%20•%20RAG%20Systems&descAlignY=60&fontColor=ffffff" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&section=header&text=Shaik%20Riyaz%20Ghori&fontSize=50&fontAlignY=35&desc=AI%20Engineer%20•%20Data%20Engineer%20•%20LLMs%20•%20RAG%20Systems&descAlignY=60&fontColor=ffffff" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2f3d7f5e-80d7-4a2c-9f45-3df1f6dd6c7d.gif" width="100%"/>
+
+</div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Production+Grade+AI+Systems;RAG+Pipelines+%7C+LLM+Evaluation+%7C+Data+Engineering;FastAPI+%7C+React+%7C+Databricks+%7C+Azure+%2F+AWS;Turning+Ideas+Into+Scalable+AI+Products" />
